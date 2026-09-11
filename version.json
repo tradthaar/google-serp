@@ -1,0 +1,14 @@
+{
+  "version": "1.0.1",
+  "updatedAt": "2026-09-11T10:01:18.178Z",
+  "targetRepo": "tradthaar/google-serp",
+  "binaries": {
+    "windows_zip": "https://github.com/tradthaar/google-serp/releases/latest/download/googlebot-windows-x64.zip",
+    "mac_arm64_dmg": "https://github.com/tradthaar/google-serp/releases/latest/download/googlebot-darwin-arm64.dmg",
+    "mac_intel_dmg": "https://github.com/tradthaar/google-serp/releases/latest/download/googlebot-darwin-x64.dmg",
+    "linux_x64_targz": "https://github.com/tradthaar/google-serp/releases/latest/download/googlebot-linux-x64.tar.gz",
+    "linux_arm64_targz": "https://github.com/tradthaar/google-serp/releases/latest/download/googlebot-linux-arm64.tar.gz",
+    "mac_arm64_targz": "https://github.com/tradthaar/google-serp/releases/latest/download/googlebot-darwin-arm64.tar.gz",
+    "mac_intel_targz": "https://github.com/tradthaar/google-serp/releases/latest/download/googlebot-darwin-x64.tar.gz"
+  }
+}
